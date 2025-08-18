@@ -1,0 +1,18 @@
+{
+  "name": "02_prompting",
+  "version": "1.0.0",
+  "main": "prompt.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"node cot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "openai": "^5.12.2"
+  }
+}
