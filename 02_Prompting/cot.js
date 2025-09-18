@@ -59,7 +59,7 @@ async function main() {
     },
     {
       role: 'user',
-      content: 'Write a code in JS to find a prime number as fast as possible',
+      content: 'Who comes first egg or chicken?',
     },
   ];
 
